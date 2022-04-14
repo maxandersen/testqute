@@ -5,9 +5,9 @@
 //DEPS io.quarkus:quarkus-resteasy-reactive-qute
 //DEPS io.quarkus:quarkus-mutiny
 //JAVAC_OPTIONS -parameters
-//FILES META-INF/resources/templates/Main/index.html=index.html
-//FILES META-INF/resources/templates/Main/board.html=board.html
-//FILES META-INF/resources/templates/Main/chats.html=chats.html
+//FILES templates/Main/index.html=index.html
+//FILES templates/Main/board.html=board.html
+//FILES templates/Main/chats.html=chats.html
 
 //SOURCES *.java
 
